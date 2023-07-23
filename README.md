@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm ✨Abby✨</h1>
-<h3 align="center">I'm a passionate Front End Developer with a love for creating awesome web experiences. This is my Github epository where i showcase my projects and code contributions</h3>
+<h3 align="center">I'm a passionate Front End Developer with a love for creating awesome web experiences. This is my Github repository where i showcase my projects and code contributions</h3>
 
 ## 🙋‍♂️ About Me
 
