@@ -11,7 +11,7 @@
     
 - 👯 I’m eager to colaborate with like-minded deveopers on exciting frontend web projects. if you have a cool idea or need an extra          pair of hands, count me in! Lets build something amazing together
 
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for guidance on mastering GraphQL to optiize data fetching and improve the overall perfomance of my web applications
 
 - 💬 Ask me about 
     - Anything related to ReactJS and NextJS
